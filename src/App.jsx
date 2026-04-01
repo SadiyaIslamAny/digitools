@@ -27,6 +27,11 @@ function App() {
       <Navbar carts={carts}></Navbar>
        <Banner></Banner>
       <Stats></Stats>
+      <Suspense fallback={<div className='flex justify-center items-center h-64'>
+        <span className="loading loading-spinner loading-xl "></span>
+      </div>}>
+        <ProductSection productPromise={productPromise} selectedType={selectedType} setSelectedType={setSelectedType} carts={carts} setCarts={setCarts}></ProductSection>
+      </Suspense>
     </>
   )
 }
