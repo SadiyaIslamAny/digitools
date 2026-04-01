@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/LzL0tFS4/writing-2327400-1.png",
+      "name": "AI Writing Pro",
+      "badge": "Best Seller",
+      "description": "Generate high-quality content, blogs, and marketing copy in seconds.",
+      "price": "29",
+      "period": "Monthly",
+      "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"]
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/bgq61yMG/design-tool.png",
+      "name": "Design Templates Pack",
+      "badge": "Popular",
+      "description": "2000+ premium templates for social media, presentations, and more.",
+      "price": "49",
+      "period": "One-Time",
+      "features": ["2000+ templates", "Monthly updates", "Commercial license"]
+    },
+  {
+    "id": 3,
+    "image": "https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-video-editing-line-icon-vector-png-image_6684334.png",
+    "name": "Video Creator Suite",
+    "badge": "Popular",
+    "description": "Create professional videos quickly with pre-built templates.",
+    "price": "79",
+    "period": "One-Time",
+    "features": ["Template library", "4K export", "Stock media included"]
+  },
+  {
+    "id": 4,
+    "image": "https://static.thenounproject.com/png/social-media-scheduler-icon-4796074-512.png",
+    "name": "Social Media Scheduler",
+    "badge": "Best Value",
+    "description": "Schedule and automate posts across multiple platforms.",
+    "price": "19",
+    "period": "Monthly",
+    "features": ["Multi-platform support", "Analytics dashboard", "Post reminders"]
+  },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/217hx418/camera-8775444-1.png",
+      "name": "Premium Stock Assets",
+      "badge": "New",
+      "description": "Access millions of royalty-free photos, videos, and graphics.",
+      "price": "19",
+      "period": "Monthly",
+      "features": ["10M+ assets", "Commercial use", "No attribution"]
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/mrzmww2R/operation.png",
+      "name": "Automation Toolkit",
+      "badge": "Popular",
+      "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
+      "price": "79",
+      "period": "Monthly",
+      "features": ["50+ automations", "API access", "Custom workflows"]
+    },
+    {
+      "id": 7,
+        "image": "https://i.ibb.co.com/d0WmbfVg/portfolio.png",
+      "name": "Resume Builder Pro",
+      "badge": "New",
+      "description": "Create professional resumes and cover letters that land interviews.",
+      "price": "15",
+      "period": "One-Time",
+      "features": ["100+ templates", "ATS optimization", "Export to PDF"]
+    },
+    {
+      "id": 8,
+        "image": "https://i.ibb.co.com/fdhzTnCY/social-media.png",
+      "name": "Social Media Content Kit",
+      "badge": "Best Seller",
+      "description": "Complete toolkit for creating engaging social media content.",
+      "price": "39",
+      "period": "Monthly",
+      "features": ["5000+ assets", "Scheduler included", "Analytics dashboard"]
+    }
+  ]
