@@ -34,6 +34,7 @@ function App() {
       </Suspense>
       <Steps></Steps>
       <Pricing></Pricing>
+      <CallToAction></CallToAction>
       
     </>
   )
