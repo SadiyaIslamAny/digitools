@@ -23,7 +23,10 @@ function App() {
   
 
   return (
-
+    <>
+      <Navbar carts={carts}></Navbar>
+     
+    </>
   )
 }
 
