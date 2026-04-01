@@ -26,7 +26,7 @@ function App() {
     <>
       <Navbar carts={carts}></Navbar>
        <Banner></Banner>
-      
+      <Stats></Stats>
     </>
   )
 }
