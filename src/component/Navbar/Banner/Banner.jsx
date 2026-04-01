@@ -16,20 +16,16 @@ const Banner = () => {
           </div>
 
           {/* Main Heading */}
-          <h1 className="text-4xl lg:text-6xl font-extrabold text-slate-800 leading-tight">
+          <h1 className="text-4xl lg:text-4xl font-extrabold text-slate-800 leading-tight">
             Supercharge Your <br className="hidden lg:block" /> 
-            <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#4F39F6] to-[#9514FA]">
-              Digital Workflow
-            </span>
+            Digital Workflow
+            
           </h1>
 
           {/* Subtext */}
           <p className="text-lg text-slate-500 max-w-lg mx-auto lg:mx-0">
             Access premium AI tools, design assets, templates, and productivity 
-            software—all in one place. Start creating faster today.
-          </p>
-
-          <p className="text-sm font-semibold text-slate-400 uppercase tracking-widest">
+            software—all in one place. Start creating faster today.<br></br>
             Explore Products
           </p>
 
@@ -52,13 +48,13 @@ const Banner = () => {
           <div className="absolute -top-10 -right-10 w-64 h-64 bg-purple-200 rounded-full filter blur-3xl opacity-30 animate-blob"></div>
           
           {/* Main Image Container */}
-          <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-slate-100">
-             <img 
-               src={bannerimg}
-               alt="Digital Workflow Illustration" 
-               className="w-full h-auto object-cover"
-             />
-          </div>
+   <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-slate-100 max-w-xs mx-auto">
+  <img 
+    src={bannerimg}
+    alt="Digital Workflow Illustration" 
+    className="w-full h-auto object-cover"
+  />
+</div>
         </div>
 
       </div>
