@@ -33,6 +33,7 @@ function App() {
         <ProductSection productPromise={productPromise} selectedType={selectedType} setSelectedType={setSelectedType} carts={carts} setCarts={setCarts}></ProductSection>
       </Suspense>
       <Steps></Steps>
+      <Pricing></Pricing>
       
     </>
   )
