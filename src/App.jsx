@@ -36,6 +36,7 @@ function App() {
       <Pricing></Pricing>
       <CallToAction></CallToAction>
       <Footer></Footer>
+      <ToastContainer />
 
     </>
   )
