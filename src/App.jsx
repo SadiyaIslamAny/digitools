@@ -35,7 +35,8 @@ function App() {
       <Steps></Steps>
       <Pricing></Pricing>
       <CallToAction></CallToAction>
-      
+      <Footer></Footer>
+
     </>
   )
 }
